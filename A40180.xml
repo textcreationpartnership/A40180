@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to all people to pureness, cleanness, and holiness, and faithfulness to the Lord by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40180</idno>
+            <idno type="STC">Wing F1815</idno>
+            <idno type="STC">ESTC R30368</idno>
+            <idno type="EEBO-CITATION">11304012</idno>
+            <idno type="OCLC">ocm 11304012</idno>
+            <idno type="VID">47369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to all people to pureness, cleanness, and holiness, and faithfulness to the Lord by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bringhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Conduct of life.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47369:1"/>
+            <pb facs="tcp:47369:1" rendition="simple:additions"/>
+            <p>AN EXHORTATION TO All People, TO Pureneſs, Cleanneſs, and Holi<g ref="char:EOLhyphen"/>neſs, and Faithfulneſs to the Lord.</p>
+            <p>By G. F.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bringhurſt, 1685.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb facs="tcp:47369:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47369:2"/>
+            <head>Here you may ſee who they are that dwell with everlaſting Burning, &amp; in Gods Taberna<g ref="char:EOLhyphen"/>cle and Holy Mountain, &amp; who not.</head>
+            <p>
+               <hi>DAvid</hi> ſaith, <hi>Who ſhall aſcend into the Hill of the Lord? And who ſhall ſtand in his holy place? David</hi> anſwers, and ſaith, <hi>He that hath clean Hands, and a pure Heart; who hath not lift up his Soul unto Vanity, nor ſworn deceit<g ref="char:EOLhyphen"/>fully; he ſhall receive the Bleſſing from the Lord, and righteouſneſs from the God of his Salvation, and this is the Generation of them that ſeek the Lord,</hi> Pſal. 24. So here is a Generation of clean Hands, and a pure Heart that aſcends into the Hill of the Lord, and ſtands in his holy place.</p>
+            <p>And <hi>Iſaiah</hi> ſaith, <hi>Who amongſt us ſhall dwell with devouring Fire? Who among us ſhall dwell with everlaſting Burnings?</hi> And <hi>Iſaiah</hi> anſwers his Queſtions, and ſaith, <hi>He that walketh righteouſly, and ſpeaketh Uprightly; he that deſpiſeth the Gain of Oppreſſion, that ſhake<g ref="char:EOLhyphen"/>eth his Hands from holding of Bribes; that ſtoppeth his Ears from hearing of Blood, and ſhutteth his eyes from ſeeing evil; he ſhall dwell on high, his place of Defence ſhall be the Munition of Rocks; Bread ſhall be given him, his Water ſhall be ſure; thine Eyes ſhall ſee the King in his Beauty,</hi> &amp;c. <hi>and thine Eyes ſhall ſee a Tabernacle that ſhall not be taken down, not one of the Stakes thereof ſhall ever be removed,</hi> &amp;c. <hi>Iſai.</hi> 33.</p>
+            <p>Here you may ſee who they are that can dwell with devour<g ref="char:EOLhyphen"/>ing Fire and everlaſting Burning, and yet ſhall not be Burned nor Devoured.</p>
+            <p>
+               <hi>David</hi> ſaith, <hi>Lord, who ſhall abide in thy Tabernacle? And who ſhall dwell in thy holy Hill? David</hi> anſwers his Queſtions, and
+<pb n="4" facs="tcp:47369:3"/>ſaith, <hi>He that walketh Uprightly, and worketh Righteouſneſs, and ſpeaketh the Truth in his Heart: he that backbiteth not with his Tongue, nor doth evil to his Neighbour, nor taketh up a reproach againſt his Neighbour, in whoſe eyes a vile Perſon is condemned, but he Honour<g ref="char:EOLhyphen"/>eth them that fear the Lord,</hi> &amp;c. <hi>He that taketh not a reward againſt the Innocent; he that doth theſe things ſhall never be removed, but ſhall abide in the Tabernacle of the Lord, and dwell in his holy Hill,</hi> Pſal. 15. <hi>But the Ungodly are not ſo, but are like the Chaff which the wind driveth away; therefore the Ungodly ſhall not ſtand in Judg<g ref="char:EOLhyphen"/>ment,</hi> (namely, <hi>Righteous Judgment</hi>) <hi>and Sinners ſhall not ſtand in the Congregation of the Righteous.</hi>
+            </p>
+            <p>
+               <hi>The Mountain of the houſe of the Lord, ſhall be eſtabliſht above all the Mountains, and exhalted above all the Hills; and doth not the Lord here teach his People his Righteous and Holy Ways &amp; Paths to walk in?</hi> as in Iſai. 2. Micah 4. And the Stone that ſmote the Great I<g ref="char:EOLhyphen"/>mage of Gold, of Silver, of Braſs, and Iron, and Clay, that they became like Chaff of the Summer Threſhing Floors, and the Wind carryed them away, that no place was found for them, and the Stone that ſmote this Great Image, became a Great Mountain, and filled the whole Earth, <hi>Dan.</hi> 2.45.</p>
+            <p>Is not this Stone, that becomes a Great Mountain, that filleth the whole Earth, Chriſt Jeſus? and ſo through him the King<g ref="char:EOLhyphen"/>domes of the World become the Kingdomes of Chriſt.</p>
+            <p>Here you may ſee this Stone or Mountain that filleth the whole Earth, will daſh to Pieces, and grind to Powder all that is not of it's Holy and Pure Nature, and with its Holy Divine Nature fill the whole Earth.</p>
+            <p>The Lord ſaith, <hi>They ſhall not hurt nor deſtroy in all my Holy Mountain,</hi> Iſai. 11. and is not this Holy Mountain Chriſt, who deſtroyeth the Devil and his Works, the Deſtroyer? <hi>And them that take hold of my Covenant,</hi> ſaith the Lord, <hi>even them will I bring to my Holy Mountain,</hi> &amp;c. Iſai. 56.6, 7. and Chap. 2.2.</p>
+            <p>
+               <hi>And he that putteth his trust in me, ſaith the Lord, ſhall inherit my
+<pb n="5" facs="tcp:47369:3"/>Holy Mountain,</hi> Iſa. 57.13. <hi>For thus ſaith the High and Lofty One that inhabits Eternity, whoſe Name is Holy, I dwell in the High and Holy Place, with him alſo that is of a Contrite and Humble Spirit, to revive the Spirit of the Humble, and to revive the Heart of the Con<g ref="char:EOLhyphen"/>trite Ones,</hi> Iſa. 57.15. Therefore is it not good to wait upon the Lord, and truſt in him?</p>
+            <div type="part">
+               <head>Concerning ſuch as eat up Gods people like Bread, and ſuch as make Idols and Images, and worſhip them, are without the true Underſtanding, and are Fools that hate Knowledge; and ſuch as goe into Adultry and Uncleanneſs, are void of the Wiſdom of God and true Underſtanding; and Gods Fury is upon all ſuch as do not call upon his Name.</head>
+               <p>
+                  <hi>DAvid</hi> ſaith, <hi>Have all the workers of Iniquity no knowledge, who eat up my People as they eat Bread?</hi> Pſal. 14.4. Here the workers of Iniquity as they eat Bread, they eat up Gods People, that is, they devour them; are not theſe Devourers, Men-eaters?</p>
+               <p>And again in Pſal. 53.4. the Lord ſaith, <hi>The workers of Ini<g ref="char:EOLhyphen"/>quity eat up my People like Bread. But God did give his People Corn from Heaven, and Man did eat Angels Food,</hi> Pſal. 78.24, 25. And <hi>David</hi> ſaid, <hi>The Wicked even mine Enemies and my Foes came upon me to eat up my Fleſh, they ſtumbled and fell,</hi> Pſal. 27.2.</p>
+               <p>Here you may ſee theſe Wicked Men-eaters and Enemies of the Righteous ſtumbled and fell, when they came to eat up the Fleſh of the Righteous, ſo they fell ſhort of their devouring Prey, <hi>Pſal.</hi> 27.2.</p>
+               <p>
+                  <hi>Solomon</hi> ſaith, <hi>Whoſo committeth Adultery with a Woman, lacketh Underſtanding; he that doth it, deſtroyeth his own Soul; a wound and a diſhonour ſhall he get, and his reproach ſhall not be wiped away,</hi>
+                  <pb n="6" facs="tcp:47369:4"/>Prov. 6.32, 33. <hi>And they that want Underſtanding the Wicked Woman draweth in; but he knoweth not that the Dead are there, and that her Gueſts are in the Chambers of Hell,</hi> Prov. 9.16. to the end.</p>
+               <p>And therefore <hi>Job</hi> ſaith, <hi>The fear of the Lord that is Wiſdom, and to depart from Evil is Underſtanding,</hi> Job 28.28. And <hi>So<g ref="char:EOLhyphen"/>lomon</hi> ſaith, <hi>He that is ſlow to Wrath, is of a great Underſtanding; but he that is haſly of Spirit, exhalteth Folly,</hi> Prov. 14.29. <hi>And Under<g ref="char:EOLhyphen"/>ſtanding is a well ſpring of Life to him that hath it,</hi> Prov. 16.22. <hi>But the Man that wandereth out of the way of Underſtanding, ſhall remain in the Congregation of the Dead,</hi> Prov. 21.16. <hi>Evil Men underſtand not Judgment,</hi> Prov. 28.5. <hi>And the strange Woman deceiveth the ſimple Ones &amp; Youth who are void of Underſtanding, her houſe is the way to Hell, going down to the Chambers of Death,</hi> Prov. 7. And there<g ref="char:EOLhyphen"/>fore it is good to keep and walk in the Spirit of Underſtanding by which you may depart from Evil, and keep out of the Snare of the Whore, and the Congregation of the Dead.</p>
+               <p>And the Lord ſaid concerning the Jews that had rebelled a<g ref="char:EOLhyphen"/>gainſt his Spirit, <hi>My People are fooliſh, they have not known me, they are ſottiſh Children, they have no Underſtanding, they are wiſe to do Evil, but to do good they have no Knowledge,</hi> Jer. 4.22. Is not this the condition of many Chriſtians as well as the Jews?</p>
+               <p>The Prophet ſaith, <hi>Pour out thy Wrath upon the Heathen that know thee not, and upon the Families that call not upon thy Name; for they have eaten up Jacob, and devoured him, and conſumed him, and have made his Habitation deſolate:</hi> Muſt not Gods Fury come upon theſe Men-eaters, that eat Jacob the beloved of God, and devoured him, and make his Habitation dolate, <hi>Jerem.</hi> 10.25. And <hi>David</hi> ſaith, <hi>Pour out thy Wrath upon the Heathen that have not known thee, and upon the Kingdomes that have not called upon thy Name, for they have devoured Jacob, and laid waſt his dwelling-place,</hi> Pſal. 79.6, 7. Gods Fury will be poured upon ſuch that devoureth the Righteous, and lay waſt his dwelling-place.</p>
+               <p>And you may ſee in <hi>Jer.</hi> 51. <hi>They that are founders of Graven I<g ref="char:EOLhyphen"/>mages,
+<pb n="7" facs="tcp:47369:4"/>or Molten Images</hi> (are bruitiſh by their Knowledge) <hi>which are the works of errour, and ſhall periſh.</hi> And the Lord ſaith, <hi>A draught is upon her Waters, namely</hi> Babylon, <hi>and they ſhall be dryed up, for it is a Land of Graven Images, and they are Mad upon their Idols,</hi> Jer. 50.38. Upon ſuch God brings Draughts and Fa<g ref="char:EOLhyphen"/>mine, who diſobey and forſake the Living God, and dote upon their Idols and Images which they make, <hi>And the Lord fruſtrateth the tokens of Liars, and maketh the Diviners Mad, and turneth Wiſe<g ref="char:EOLhyphen"/>men backward, and maketh their Knowledge Fooliſh,</hi> and hath not this been ſeen and fulfilled? <hi>Iſai.</hi> 44.25. And the Lord ſaith, <hi>They eat up the Sins of my People, and they ſet their Hearts on their Ini<g ref="char:EOLhyphen"/>quity, and there ſhall be like Prieſt like People, and I will puniſh them for their ways, and reward them for their Doings,</hi> Hoſea 8.9. And the Lord ſaith to <hi>Daniel, The Wicked ſhall do wickedly, and none of the Wicked ſhall underſtand, but the Wiſe ſhall underſtand,</hi> Daniel 12.10. The fear of the Lord is the beginning of Wiſdom, and the Secrets of the Lord are with them that fear him, and the Lord taketh care for them that fear him, as in <hi>Exod.</hi> 1.21. therefore it is good to live in the fear of the Lord, which ye muſt if ye know his Secrets.</p>
+            </div>
+            <div type="part">
+               <head>The cauſe of Draught and Barrenneſs, Famine and Plagues, for diſobeying the Lord, and grieving his Spirit.</head>
+               <p>THe cauſe of Draught, Barrenneſs and Famine, <hi>The Lord turneth Rivers into a Wilderneſs, and the Water Springs into Dry Ground, and turneth a Fruitful Land into Barrenneſs, for the Wickedneſs of them that dwell therein,</hi> (Mark) it is for the Wicked<g ref="char:EOLhyphen"/>neſs of them that dwell therein, <hi>Pſal.</hi> 107.33, 34.</p>
+               <p>And you may ſee them that diſobeyed the Lord and forſook him, and becauſe of the Wickedneſs of their doings, the Lord
+<pb n="8" facs="tcp:47369:5"/>will ſmite ſuch with Conſumptions, and Feavors, and Botches, and Blaſtings, and Mill-dews, until they periſh, <hi>I will</hi> ſaith the Lord <hi>ſmite them with Madneſs and Blindneſs, and aſtoniſhment of Heart, and the Locuſt and the Wormes ſhall conſume and devour their Fruits, and the Heavens that are over thy Head ſhall be as Braſs, and the Earth that is under thee ſhall be Iron,</hi> and the Lord will make the Rain of thy Land Powder and Duſt, and will ſmite thee with the Botches of <hi>Egypt,</hi> and with the Emrods, Scab and Itch, that thou canſt not be healed; and this is the portion of them that diſobey the Lord and forſake him, as in <hi>Deut.</hi> 28. you may ſee more at large, and how the Curſe followeth the Wicked and Diſobedient, in City and Field, and upon themſelves and their Flocks, and the Fruits of their Land, yea, the Plagues and Judgments that he poured upon <hi>Egypt,</hi> he poureth upon them that diſobey him, and grieve and rebel againſt his Spirit.</p>
+               <p>And the Lord ſent the Prophet <hi>Gad</hi> unto <hi>David,</hi> when he cauſed <hi>Joab</hi> to number the People, and ſaid unto him, <hi>Shall Se<g ref="char:EOLhyphen"/>ven Years of Famine come upon the Land, or wilt thou fly Three Months before thine Enemies, whileſt they purſue thee, or that there be Three Dayes Peſtilence in thy Land,</hi> 2 Sam. 24. And did not this action of <hi>David</hi> bring Death and Deſtruction of Seventy Thouſand of the Jews, through <hi>Davids</hi> hearkning to the Temptation of Sa<g ref="char:EOLhyphen"/>tan, as in the 1 <hi>Chro.</hi> 21. but <hi>David</hi> repented, and the Lord ſtaid the hand of the deſtroying Angel; that Jeruſalem was not deſtroyed.</p>
+               <p>And did not the Lord call for a Famine, and it came upon the Land ſeven Years? as in 2 <hi>Kings</hi> 8.1. and was not this be<g ref="char:EOLhyphen"/>cauſe of their Wickedneſs?</p>
+               <p>And in <hi>Jer.</hi> 11.22. Doth not the Lord there puniſh Judah for his Idolatry, and ſaid, <hi>That his Sons and Daughters ſhould die by Famine.</hi> And in <hi>Jer.</hi> 14.12. There the Lord ſaid to the Jews that diſobeyed him, <hi>When they Faſt I will not hear them, nor accept their Offerings,</hi> but ſaid, <hi>I will conſume them by Famine and
+<pb n="9" facs="tcp:47369:5"/>by Peſtilence, &amp;c.</hi> and likewiſe you may ſee in <hi>Jer.</hi> 15. how the Lord ſaith concerning the Rebellious and Diſobedient jews, and the Wickedneſs of <hi>Manaſſes</hi> he threateneth Death, Captivi<g ref="char:EOLhyphen"/>ty and Famine, <hi>&amp;c.</hi> againſt them, and likewiſe you may ſee in <hi>Jer.</hi> 18.21. how the Lord threatens Famine and Judgments againſt the Jews for their revolting from the Lord, and in <hi>Jer.</hi> 44.13. See how the Lord threateneth the diſobedient by Fa<g ref="char:EOLhyphen"/>mine and Peſtilence, and the Lord threateneth his Plagues and Judgments concerning <hi>Babylon,</hi> and ſaith, <hi>A draught is upon the Waters, and they ſhall be dryed up, for it is a Land of Graven Images, and they are mad upon their Idols:</hi> And therefore let all that diſ<g ref="char:EOLhyphen"/>obey the Lord, and make Graven Images and Idols, and wor<g ref="char:EOLhyphen"/>ſhip them, beware of theſe Judgments, <hi>Jer.</hi> 50.38. And <hi>Ezekiel,</hi> he declareth the Judgments upon Jeruſalem for their rebelling againſt God, how that they ſhould die and be conſum<g ref="char:EOLhyphen"/>ed with Famine and Peſtilence, in <hi>Ezek.</hi> 5.12. and likewiſe in <hi>Ezek. 6.</hi> you may ſee the Judgments upon Iſrael for their Idola<g ref="char:EOLhyphen"/>try, the Lord ſaith, he would <hi>Pour his Fury upon them, and they ſhall die by Pestilence and Famine:</hi> And the Lord ſaith, he would <hi>Leave a few of the Jews that ſhould eſcape from the Peſtilence and Fa<g ref="char:EOLhyphen"/>mine, and that theſe Jews that eſcaped might declare their own Abomi<g ref="char:EOLhyphen"/>nations among the Heathen, Ezek.</hi> 12.16. and in <hi>Iſa.</hi> 14. you may ſee how the Lord threatened the <hi>Aſſyrians</hi> with Famine and Peſtilence, <hi>Thus ſaith the Lord, becauſe of mine Houſe that is waſt, yea, every Man runneth to his own houſe, therefore the Heaven over you is ſtayed from Dew, and the Earth is ſtayed from her Fruit; and I called for a draught upon the Land, and upon the Mountaines, and up<g ref="char:EOLhyphen"/>on the Corn, and upon the New Wine, and upon the Oyl, and upon this which the ground bringeth forth, and upon Men, and upon Cattel, and upon all the Labour of their Hands,</hi> Haggai 1.10, 11.</p>
+               <p>Here you may ſee the reaſon of the Judgments of God, be<g ref="char:EOLhyphen"/>cauſe People mind their own Houſes and Buſineſs, and Wills more then the Lords.</p>
+               <pb n="10" facs="tcp:47369:6"/>
+               <p>And did not the Three Years Famine and Six Months come upon the Children of Iſrael, becauſe of their turning from the Lord, and Rebelling againſt his Law and Spirit in the days of wicked <hi>Ahab</hi> and <hi>Jezabel,</hi> who ſet up their Idolatry, and Per<g ref="char:EOLhyphen"/>ſecuted and Killed the Lords People? and did not the Lord ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t up Heaven, that they had no Rain nor Dew for Three Years and Six Months in the Land of Iſrael? as in <hi>Luke</hi> 4.25. 1 <hi>Kings</hi> 17.</p>
+               <p>And you may ſee in <hi>Rev.</hi> 18. what Plagues, and Famine, and Judgments the Lord poureth upon the Falſe Church, Myſte<g ref="char:EOLhyphen"/>ry Babylon, the Great Whore, that hath Whored from the Spirit of Chriſt, and killed the Lords Prophets, and drunk the Blood of the Saints and Martyrs, who ſat as a Queen; but Plagues, and Judgments, and Famine, and Deſtruction is their end, with the Dragon, Beaſt, and Falſe Prophets, and their Followers. And therefore let all be warned that rebel againſt the Spirit of God, and ſo turn from the Lord into Sin and Wickedneſs, ſuch cannot expect to eſcape theſe Plagues and Judgments that God and his Prophets, Chriſt and his Apoſtles, have pronounced againſt them in the Holy Scriptures of Truth.</p>
+            </div>
+            <div type="part">
+               <head>Concerning ſuch as overcome the Beaſt, and Dragon, and Whore, and Falſe Prophet.</head>
+               <p>Rev. 11.7. <hi>THe Beaſt ſhall overcome the Two Witneſſes of God, and kill them.</hi> Rev. 13.7. <hi>And the Beaſt ſhall make war with the Saints, and overcome them.</hi> Rev. 17.17. <hi>But the Lamb ſhall overcome the Beaſt and his Followers.</hi>
+               </p>
+               <p>Rev. 13.21. <hi>And Chriſt ſaith to him that overcometh will I grant to ſit with me in my Throne, even as I alſo overcame, and am ſet down with my Father in his Throne.</hi>
+               </p>
+               <pb n="11" facs="tcp:47369:6"/>
+               <p>Rev. 12.11. <hi>And the Saints overcame the Dragon by the Blood of the Lamb, and the Word of their Teſtimony, and they loved not their Lives to the Death.</hi>
+               </p>
+               <p>Rev. 2.26, 27. <hi>And he that overcometh and keepeth my words unto the end, to him will I give power over the Nations, ſaith Chriſt, and he ſhall rule them with a Rod af Iron, as the Veſſels of a Potter ſhall they be broken to ſhivers, even as I received of my Father, and I will give him the Morning Star.</hi>
+               </p>
+               <p>Rev. 2.7. <hi>To him that overcometh will I give to eat of the Tree of Life, which is in the midſt of the Paradice of God.</hi>
+               </p>
+               <p>Rev. 2.10, 11. <hi>And be thou faithful unto Death, and I will give thee a Crown of Life; and he that overcometh ſhall not be hurt with the ſecond Death.</hi>
+               </p>
+               <p>Rev. 3.5. <hi>And he that overcometh, the ſame ſhall be cloathed in White Rayment, and I will not blot his Name out of the Book of Life, but I will confeſs his Name before my Father and before his Angels.</hi>
+               </p>
+               <p>Rev. 3.21. <hi>And him that overcometh will I grant to ſit with me in my Throne, even as I alſo overcame, and am ſet down with my Fa<g ref="char:EOLhyphen"/>ther in his Throne.</hi>
+               </p>
+               <p>Rev. 2.17. <hi>And him that overcometh will I give to eat of the hid<g ref="char:EOLhyphen"/>den Manna, and will give him a white Stone, and in the Stone a New Name written, which no Man knoweth, ſaving he that receiveth it.</hi>
+               </p>
+               <p>Rev. 3.10. <hi>And Chriſt ſaith, thou haſt kept the word of my Pati<g ref="char:EOLhyphen"/>ence, I will keep thee from the Hour of Temptation, which ſhall come upon all the World, to try them that dwell upon the Earth.</hi>
+               </p>
+               <p>Rev. 3.13. <hi>And him that overcometh will I make a Pillar in the Temple of my God, and he ſhall go no more out, and I will write upon him the name of my God, and the Name of the City of my God, and I will write upon him my New Name.</hi>
+               </p>
+               <p>Rev. 21.7. <hi>And he that overcometh ſhall inherit all things, and I will be his God, and he ſhall be my Son.</hi>
+               </p>
+               <p>But the Dragon and the Beaſt, the Falſe Prophet and their Followers, and the Falſe Church that maketh war with the
+<pb n="12" facs="tcp:47369:7"/>Lamb and the Church of Chriſt the Saints; theſe ſay, that there is no overcoming of them while they live upon the Earth, but the Beaſt, Falſe Prophets, and the Whore, and the Dragon, muſt have the Victory, and the Lamb and the Saints muſt not have the Victory; and the Kingdomes of the World muſt not become the Kingdomes of Chriſt; this is the Beaſt, and the Whore, and the Falſe Prophets, and the Old Dragons, the Devils, and Satans Falſe Doctrine; but the Lamb and the Saints ſhall have the Victory over them all.</p>
+               <p>
+                  <hi>Iſaac</hi> ſaid that when <hi>Eſau</hi> had broken <hi>Jacobs</hi> Yoke from off his Neck, then <hi>Eſau</hi> ſhould have the dominion, and this <hi>Iſaac</hi> ſpoke by Prophecy in <hi>Gen.</hi> 27.40. and was fulfilled in <hi>Jehorams</hi> days, 2 <hi>Chron.</hi> 21.4, 5, 8. For then the <hi>Edomites</hi> made themſelves a King, and this <hi>Jehoram</hi> compelled <hi>Judah</hi> to his Falſe Worſhip, and to forſake Gods Worſhip, 2. <hi>Chron.</hi> 21.11.</p>
+               <p>
+                  <hi>David</hi> ſaith, <hi>O Lord preſerve my Life from the fear of the Enemy, and hide me from the ſecret Council of the Wicked, and from the In<g ref="char:EOLhyphen"/>ſurrection of the workers of Iniquity, who whet their Tongue like a Sword, and bend their Bowes to ſhoot their Arrowes, even bitter words,</hi> Pſal. 64.2, 3.</p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47369:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
